@@ -1,2 +1,2 @@
 # todo-list
-Todo list realise avec Django et React
+Todo list réalisée avec Django et React
